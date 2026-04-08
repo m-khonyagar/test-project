@@ -1,11 +1,13 @@
 # Test Project
 
-این یک پروژه تست برای تنظیم Git و GitHub است.
+Sandbox repository for Git and GitHub setup checks.
 
-## ایجاد شده توسط:
-- Cascade AI Assistant
-- تاریخ: 2026-03-08
+## Status
+This repository is kept as a lightweight test workspace and is not intended to represent a production project.
 
-## ویژگی‌ها:
-- Git repository
-- آماده برای اتصال به GitHub
+## Purpose
+- Verify Git configuration
+- Test GitHub connection flow
+- Keep a minimal disposable repository for experiments
+
+Created on 2026-03-08.
